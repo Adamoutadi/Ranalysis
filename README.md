@@ -1,4 +1,4 @@
-# Ranalysis 📈
+# R.analysis 📈
 Project Description
 
 This project analyzes consumer complaints using natural language processing techniques and visualizes the results using various plots and a shiny app. The data used for this analysis is a CSV file containing information about consumer complaints filed with the Consumer Financial Protection Bureau (CFPB).
