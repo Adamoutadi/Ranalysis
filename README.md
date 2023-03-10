@@ -13,7 +13,7 @@ shiny: for building the shiny app
 DT: for rendering the data table in the shiny app
 
 
-# Data cleaining: 🧹
+# Data cleaning: 🧹
 <img width="503" alt="Screen Shot 2023-03-09 at 10 51 43 PM" src="https://user-images.githubusercontent.com/75454891/224226479-183c5336-86a7-4e6e-9225-8cc144a62712.png">
  This code cleans and preprocesses a consumer complaints dataset. It selects specific columns of interest and drops rows with missing values. It then tokenizes the company_response column into individual words and removes commonly occurring stop words. The resulting data frame, df_2, contains a new column, word, with each row representing a single word from the original company_response column. This process prepares the data for sentiment analysis, which is performed in the subsequent code.
 
