@@ -11,7 +11,16 @@ dplyr: for data manipulation
 wordcloud: for creating word clouds
 shiny: for building the shiny app
 DT: for rendering the data table in the shiny app
-Sentiment Analysis
+
+
+# Data cleaining:
+<img width="503" alt="Screen Shot 2023-03-09 at 10 51 43 PM" src="https://user-images.githubusercontent.com/75454891/224226479-183c5336-86a7-4e6e-9225-8cc144a62712.png">
+ This code cleans and preprocesses a consumer complaints dataset. It selects specific columns of interest and drops rows with missing values. It then tokenizes the company_response column into individual words and removes commonly occurring stop words. The resulting data frame, df_2, contains a new column, word, with each row representing a single word from the original company_response column. This process prepares the data for sentiment analysis, which is performed in the subsequent code.
+
+
+<img width="489" alt="Screen Shot 2023-03-09 at 10 50 44 PM" src="https://user-images.githubusercontent.com/75454891/224226295-62cb89bf-65dd-4de6-a431-bceab7f64eab.png">
+
+ # Sentiment Analysis
 
 The sentiment analysis is performed using the NRC and Bing lexicons, which are built-in lexicons in the tidytext package. The NRC lexicon consists of words and their associated emotions, while the Bing lexicon consists of words and their associated positive or negative sentiment.
 The analysis first tokenizes the text data and removes stop words. Then, each word is assigned a sentiment based on its presence in the lexicon. The sentiment count is then aggregated by word and sentiment.
@@ -24,7 +33,7 @@ The analysis first tokenizes the text data and removes stop words. Then, each wo
 
 
 
-Graphs and Word Cloud
+# Graphs and Word Cloud
 
 <img width="886" alt="Screen Shot 2023-03-09 at 10 43 44 PM" src="https://user-images.githubusercontent.com/75454891/224225448-9579ac59-7a05-4cd9-bc48-2654a7793fa3.png">
 
