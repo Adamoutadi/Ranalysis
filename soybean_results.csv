@@ -1,0 +1,52 @@
+,State,Commodity,RMSE,ABS
+0,"0    LA
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",14.338357602358373,11.858277027027025
+1,"0    NE
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",15.631701735852491,10.97283653846154
+2,"0    IA
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",19.152234410968667,12.619711538461537
+3,"0    IL
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",20.584567692408147,15.194444444444443
+4,"0    MN
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",19.195528097415796,13.640330188679245
+5,"0    IN
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",19.125300493568677,15.740570175438597
+6,"0    KS
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",15.02059031365065,10.348883928571427
+7,"0    ND
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",16.422661114354245,11.799999999999999
+8,"0    KY
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",12.819801813927823,10.146774193548387
+9,"0    MI
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",17.155831701900336,13.220089285714286
+10,"0    MO
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",15.197900416943563,10.98541666666667
+11,"0    NC
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",11.623317565586374,9.3009765625
+12,"0    OH
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",18.892249411419378,14.573922413793106
+13,"0    PA
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",12.691209196344712,9.004807692307692
+14,"0    TN
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",10.978501369293252,8.994877049180328
+15,"0    WI
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",15.231495584959136,10.376157407407403
+16,"0    AR
+Name: State, dtype: object","0    SOYBEANS
+Name: Commodity, dtype: object",13.812861841182288,10.606730769230767

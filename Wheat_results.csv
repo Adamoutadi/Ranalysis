@@ -1,0 +1,67 @@
+,State,Commodity,RMSE,ABS
+0,"0    NE
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",5.99731870360856,4.183673469387755
+1,"0    IL
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",7.780760526773716,5.375815217391303
+2,"0    IN
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",4.947724495015,3.6915816326530617
+3,"0    KS
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",6.283955212463318,4.261224489795918
+4,"0    ND
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",25.581088821661538,19.451044244469436
+5,"0    CO
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",18.958752798966174,12.137692307692308
+6,"0    KY
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",9.531120201035414,7.461890243902439
+7,"0    MI
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",8.59903052052132,6.595663265306122
+8,"0    MO
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",7.839510043975443,5.57219387755102
+9,"0    NC
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",8.291583081655757,5.514499999999999
+10,"0    OH
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",8.340636513355362,5.347395833333334
+11,"0    PA
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",17.265897339481086,12.486458333333331
+12,"0    TN
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",9.71107089662019,7.378061224489795
+13,"0    TX
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",5.539031358407629,4.45841346153846
+14,"0    WI
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",14.996878185106159,11.811684782608692
+15,"0    AR
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",9.495749421476523,6.267452830188678
+16,"0    CA
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",9.796884036297062,6.666576086956522
+17,"0    ID
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",8.927834654475129,6.528921568627451
+18,"0    MT
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",16.58984256113996,12.047515900195695
+19,"0    OK
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",7.8156680243384615,6.251111111111111
+20,"0    OR
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",14.005920294961827,10.216323529411763
+21,"0    WA
+Name: State, dtype: object","0    WHEAT
+Name: Commodity, dtype: object",12.16803989722569,8.323214285714286
